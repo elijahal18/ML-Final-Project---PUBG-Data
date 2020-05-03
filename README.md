@@ -1,1 +1,6 @@
 # ML Final Project with PUBG Data
+
+## Feature Elimination
+
+We have chosen to eliminate the following features for a variety of reasons...
+1. `maxPlace`, `numGroups`...
